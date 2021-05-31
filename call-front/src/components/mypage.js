@@ -1,4 +1,3 @@
-@@ -1,79 +0,0 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
